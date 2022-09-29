@@ -1,3 +1,5 @@
+<p>O projeto foi desenvolvido por <a href="https://github.com/Istvanoliva">Istvan Oliva</a> enquanto estudava na <a href="https://www.betrybe.com/">Trybe</a> :rocket:</p>
+
 # O que deverá ser desenvolvido
 
 - Será desenvolvido uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
@@ -24,7 +26,7 @@
     - [13 - Adicione dois botões, um com id="mover-cima" e outro com id="mover-baixo", que permitam mover o item selecionado para cima ou para baixo na lista de tarefas](#13---adicione-dois-botões-um-com-idmover-cima-e-outro-com-idmover-baixo-que-permitam-mover-o-item-selecionado-para-cima-ou-para-baixo-na-lista-de-tarefas)
     - [14 - Adicione um botão com id="remover-selecionado" que, quando clicado, remove o item selecionado](#14---adicione-um-botão-com-idremover-selecionado-que-quando-clicado-remove-o-item-selecionado)
 
-# Habilidades
+## Habilidades
 
 - Manipular CSS
 
